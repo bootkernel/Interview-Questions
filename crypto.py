@@ -7,7 +7,7 @@ def crypto(string):
       if 97 <= ord(char) <= 122:                         # 97 to 122 is A - Z in Unicode
 
          calc = float(midpoint_float) - ord(char)        # ord() returns an integer which
-                                                         # represents an unicode character
+                                                         # represents an Unicode character
 
          char = midpoint_float + calc
          decrypted = decrypted + chr(int(char))
