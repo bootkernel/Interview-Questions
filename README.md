@@ -12,5 +12,6 @@ This repository will cover questions that are very common in technical interview
 
 <b><a href="#">4) soon.py</a></b> - Uploading soon!
 
+<h1> Theory Related Questions -</h1>
 
 
