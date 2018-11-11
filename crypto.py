@@ -8,7 +8,6 @@ def crypto(string):
 
          calc = float(midpoint_float) - ord(char)        # ord() returns an integer which
                                                          # represents an Unicode character
-
          char = midpoint_float + calc
          decrypted = decrypted + chr(int(char))
       else:
