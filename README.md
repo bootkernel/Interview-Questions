@@ -1,5 +1,5 @@
 # Interview-Questions
-I'm preparing for interviews, so I'll be posting my solutions in this repository as I move forward. This repository will cover questions that are very common in technical interviews along with the hard ones. I've created two sections: one will contain <b>Programming and Algorithm Related Questions</b> and the other one is <b>Theory Related Questions</b>.
+I'm preparing for interviews, so I'll be posting my solutions in this repository as I move forward. This repository will cover questions that are very common in technical interviews along with the hard ones. I've created two sections: one will contain, <b>Programming and Algorithm Related Questions</b> and the other one will contain,<b>Theory Related Questions</b>.
 
 <h1> Programming and Algorithm Related Questions -</h1>
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/swap.py">1) swap.py</a></b> - Write a program to swap values between two variables without using a temporary variable.
@@ -13,6 +13,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 <h1> Theory Related Questions -</h1>
 
 <b> 1) What is a deadlock? </b> -
+
 <b> 2) What is a race condition? </b> - 
 
 
