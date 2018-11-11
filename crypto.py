@@ -18,3 +18,8 @@ def crypto(string):
 string = "z xzg"
 print("\nCryptic Message:", string)
 print("\nDecrypted Message: ", crypto(string))
+
+# Output:
+
+# Cryptic Message: z xzg
+# Decrypted Message:  a cat
