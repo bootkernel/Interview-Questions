@@ -47,7 +47,7 @@ print("\nReversed Linked List:")
 rev = reverse_linked_list(starting_head_node)
 linked_list(rev)
 
-# Output
+# Output:
 # Given Linked List:
 # 1 --> 2 --> 3 --> 4 --> 5 --> 
 
