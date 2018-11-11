@@ -7,7 +7,7 @@ This repository will cover questions that are very common in technical interview
 
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/reverse_linked_list.py">2) reverse_linked_list.py</b> = Reverse a given Linked List.</a>
 
-<b><a href="#">2) crypto.py</b> = Write a simple cryptography program that interchanges all alphabets. For instance, if I say <b>"z xzg"</b>. The decrypted version will be <b>"a cat"</b> because, z = a, c = x and so on. Do not worry about the uppercase or lowercase.</a>
+<b><a href="#">2) crypto.py</b> = Write a simple cryptography program that interchanges all alphabets. For instance, if I say <b>"z xzg"</b>. The decrypted version will be <b>"a cat"</b> because, z = a, c = x and so on. You don't have to worry about the uppercase or lowercase.</a>
 
 
 
