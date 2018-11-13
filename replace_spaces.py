@@ -11,8 +11,7 @@ def replace_spaces(str):
 # Testing with a string
 str = "Hello, I am bootkernel!"
 print("Given String:", str)             # Prints given string
-print("\nHere's the given string with the spaces replaced:", replace_spaces(
-   str))
+print("\nHere's the given string with the spaces replaced:", replace_spaces(str))
 
 # Output:
 # Given String: Hello, I am bootkernel!
