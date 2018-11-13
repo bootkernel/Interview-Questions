@@ -18,8 +18,8 @@ print("\nHere's the given string with the spaces replaced:", replace_spaces(str)
 #
 # Here's the given string with the spaces replaced: Hello,%20I%20am%20bootkernel!
 
-# Second Credible Solution:
-# Defining the credible "Replace spaces" Function
+# Final Credible Solution:
+# Defining the "Replace spaces" Function
 def replace_spaces_credible(str):
    replace = ''                              # Blank variable that holds nothing
    for c in str:                             # A loop to traverse through the
