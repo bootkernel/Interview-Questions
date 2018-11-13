@@ -5,8 +5,8 @@
 
 # Defining the "Replace spaces" Function
 def replace_spaces(str):
-   return "%20".join(str.split())      # One line solution using the join
-                                       # function in Python
+   return "%20".join(str.split())      # One line solution using the join and str
+                                       # functions in Python
 
 # Testing with a string
 str = "Hello, I am bootkernel!"
