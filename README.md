@@ -6,7 +6,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/reverse_linked_list.py">2) reverse_linked_list.py</a></b> - Reverse a given Linked List.
 
-<b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/crypto.py">3) crypto.py</a></b> - Write a cryptography program that interchanges all alphabets. For instance, if I say, <b>"z xzg"</b>, the decrypted version will be <b>"a cat"</b> because, z = a, c = x and so on. You don't have to worry about the uppercase or lowercase parameters.
+<b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/crypto.py">3) crypto.py</a></b> - Write a cryptography program that interchanges all alphabets. For instance, if I say, <b>"z xzg"</b>, the decrypted version will be <b>"a cat"</b> because, z = a, c = x and so on. You don't have to worry about the uppercase and lowercase parameters.
 
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/first_recur.py">4) first_recur.py</a></b> - Print the First Recurring Character in a given string.
 
