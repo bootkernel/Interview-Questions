@@ -13,3 +13,5 @@ print("\nHere's the given string with the spaces replaced:", replace_spaces(
 # Given String: Hello, I am bootkernel!
 #
 # Here's the given string with the spaces replaced: Hello,%20I%20am%20bootkernel!
+
+# The above solution is a one liner. I'll post the main solution soon.
