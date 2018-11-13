@@ -1,3 +1,8 @@
+# Keep in Mind: The first solution is a one liner and this will not be considered during the coding interview as it 
+# doesn't demonstrate your problem solving skills. I'll post the main solution very soon.
+
+# First Solution:
+
 # Defining the "Replace spaces" Function
 def replace_spaces(str):
    return "%20".join(str.split())      # One line solution using the join
@@ -14,4 +19,4 @@ print("\nHere's the given string with the spaces replaced:", replace_spaces(
 #
 # Here's the given string with the spaces replaced: Hello,%20I%20am%20bootkernel!
 
-# The above solution is a one liner. I'll post the main solution soon.
+# Second Solution:
