@@ -1,5 +1,5 @@
 # Keep in Mind: The first solution is a one liner and this will not be considered during the coding interview as it 
-# doesn't demonstrate your problem solving skills. I'll post the main solution very soon.
+# doesn't demonstrate your problem solving skills.
 
 # First Solution:
 
