@@ -12,7 +12,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/replace_spaces.py">5) replace_spaces.py</a></b> - Replace spaces in a given string with %20.
 
-<b><a href="#">6) sorted_array_bin_tree.py</a></b> - Uploading soon!
+<b><a href="#">6) sortedArray_to_binaryTree.py</a></b> - Uploading soon!
 
 <b><a href="#">7) soon.py</a></b> - Uploading soon!
 
