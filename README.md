@@ -16,7 +16,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b><a href="#">7) soon.py</a></b> - Uploading soon!
 
-# Theory Related Questions
+# Theory Related Questions (Will be updating the links very soon!)
 <b> 1) What is a deadlock? </b>
 
 <b> 2) What is a race condition? </b>
