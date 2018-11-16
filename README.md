@@ -10,11 +10,13 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/first_recur.py">4) first_recur.py</a></b> - Print the First Recurring Character in a given string.
 
-<b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/replace_spaces.py">5) replace_spaces.py</a></b> - Replace spaces in a given string with %20.
+<b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/largestNum_in_Arr.py">5) largestNum_in_Arr.py</a></b> - Find the largest number in the given array.
 
-<b><a href="#">6) sortedArray_to_binaryTree.py</a></b> - Uploading soon!
+<b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/replace_spaces.py">6) replace_spaces.py</a></b> - Replace spaces in a given string with %20.
 
-<b><a href="#">7) soon.py</a></b> - Uploading soon!
+<b><a href="#">7) sortedArray_to_binaryTree.py</a></b> - Uploading soon!
+
+<b><a href="#">8) soon.py</a></b> - Uploading soon!
 
 # Theory Related Questions (Will be updating the links very soon!)
 <b> 1) What is a deadlock? </b>
