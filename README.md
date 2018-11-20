@@ -31,5 +31,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 3) Explain Big O. </b> 
 
-<b> 4) What happens when you type google.com in your browser and press "Enter ↵"? </b> 
+<b> 4) What happens when you type google.com in your browser and press "Enter ↵"? </b>
+
+<b> 5) Explain system calls. </b> 
 
