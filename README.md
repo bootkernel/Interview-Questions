@@ -39,5 +39,6 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 5) Explain system calls. </b>
 
-<b> 6) Explain kernel panic. </b> 
+<b> 6) Explain kernel panic. </b>
+
 
