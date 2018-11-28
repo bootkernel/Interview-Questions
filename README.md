@@ -28,7 +28,9 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b><a href="#">13) Sum_of_3.py</a></b> - Uploading soon!
 
-<b><a href="#">14) soon.py</a></b> - Uploading soon!
+<b><a href="#">14) identifying_palindrome.py</a></b> - Uploading soon!
+
+<b><a href="#">15) soon.py</a></b> - Uploading soon!
 
 # Theory Related Questions (Will be updating the links very soon!)
 <b> 1) What is a deadlock? </b>
