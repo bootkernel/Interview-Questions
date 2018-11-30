@@ -47,5 +47,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 7) Explain Mutex Lock. </b>
 
+<b> 8) What is Markov's Chain? </b>
+
 
 
