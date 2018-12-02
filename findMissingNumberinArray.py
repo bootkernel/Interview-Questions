@@ -25,3 +25,11 @@ print("Given Array =", array)
 result = FindMissing(array)
 print("Number", result, "is missing from the array.")
 
+# Output
+# Given Array = [1, 3, 5, 2]
+# Number of Elements including the missing number in the main array, n = 5
+# Number of Elements in the given array, n = 4
+# Sum of all elements in the main array including the missing number = 15.0
+# Sum of all elements in the given array = 11
+# Number 4.0 is missing from the array.
+
