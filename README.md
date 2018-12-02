@@ -14,7 +14,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/replace_spaces.py">6) replace_spaces.py</a></b> - Replace spaces in a given string with %20.
 
-<b><a href="#">16) findMissingNumberinArray.py</a></b> - Find the missing number in the given array regardless of how the elements are arranged, so, it can be sorted or unsorted.
+<b><a href="https://github.com/bootkernel/Interview-Questions/blob/master/findMissingNumberinArray.py">16) findMissingNumberinArray.py</a></b> - Find the missing number in the given array regardless of how the elements are arranged, so, it can be sorted or unsorted.
 
 <b><a href="#">8) sortedArray_to_binaryTree.py</a></b> - Uploading soon!
 
