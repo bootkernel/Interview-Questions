@@ -55,5 +55,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 10) Difference between BFS and DFS? </b>
 
+<b> 11) Time complexity of BFS compared to Hash Function and which one performs better? </b>
+
 
 
