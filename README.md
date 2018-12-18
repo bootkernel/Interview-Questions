@@ -51,7 +51,9 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 8) What is Markov's Chain? </b>
 
-<b> 9) What is a graphics API ? </b>
+<b> 9) What is a graphics API? </b>
+
+<b> 10) Difference between BFS and DFS? </b>
 
 
 
