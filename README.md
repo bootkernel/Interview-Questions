@@ -59,7 +59,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 12) Time complexity vs Space complexity. </b>
 
-<b> 13) How would you implement a Doubly Linked List if pointers didn't exist? </b>
+<b> 13) How would you implement a Doubly Linked List if pointers didn't exist? What would you call it then? </b>
 
 
 
