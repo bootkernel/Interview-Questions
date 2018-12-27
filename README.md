@@ -57,5 +57,7 @@ I'm preparing for interviews, so I'll be posting my solutions in this repository
 
 <b> 11) Time complexity of BFS compared to Hash Function and which one performs better? </b>
 
+<b> 12) Time complexity vs Space complexity? </b>
+
 
 
